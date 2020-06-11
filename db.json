@@ -6,19 +6,19 @@
     },
     "transactions": [
         {
-            "trx_nbr": "001",
+            "id": 1,
             "descriptions": "buy item 1",
             "is_promotion": true,
             "amount": 1000
         },
         {
-            "trx_nbr": "002",
+            "id": 2,
             "descriptions": "buy item 2",
             "is_promotion": true,
             "amount": 1000
         },
         {
-            "trx_nbr": "003",
+            "id": 3,
             "descriptions": "buy item 3",
             "is_promotion": false,
             "amount": 5000
